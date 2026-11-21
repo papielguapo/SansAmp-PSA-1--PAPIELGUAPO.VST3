@@ -24,7 +24,7 @@ endif()
 
 juce_add_plugin(SansAmpPSA1
     COMPANY_NAME                "papielguapo"
-    PLUGIN_MANUFACTURER_CODE    Papi
+    PLUGIN_MANUFACTURER_CODE    BFac
     PLUGIN_CODE                 PSA1
     FORMATS                     VST3 Standalone
     PRODUCT_NAME                "SansAmp PSA-1"
